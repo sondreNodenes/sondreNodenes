@@ -41,5 +41,4 @@ $ cat contact.txt
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sondreNodenes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sondreNodenes&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sondreNodenes&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/sondreNodenes)e)
