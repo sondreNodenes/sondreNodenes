@@ -1,5 +1,5 @@
+# WHOAMI
 ```yaml
-# whoami
 name: Sondre Nodenes
 location: Trondheim, Norway
 education: Bachelor @ NTNU — Digital Infrastructure & Cybersecurity (2024–2027)
