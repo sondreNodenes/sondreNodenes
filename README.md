@@ -1,16 +1,45 @@
-## Hi there 👋
+```yaml
+# whoami
+name: Sondre Nodenes
+location: Trondheim, Norway
+education: Bachelor @ NTNU — Digital Infrastructure & Cybersecurity (2024–2027)
+currently:
+  - Learning assistant (DCST1001, DCST1005)
+  - Tech lead @ BRAIN NTNU
+  - Program & institute student representative
+interests:
+  - Network security
+  - Cloud infrastructure
+  - System administration
+```
+```bash
+$ cat skills.txt
+```
 
-<!--
-**sondreNodenes/sondreNodenes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Networks**
+![Cisco](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-Here are some ideas to get you started:
+**Code**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+```bash
+$ cat contact.txt
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sondre--nodenes-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sondre-nodenes)
+[![Email](https://img.shields.io/badge/Email-sondrenf@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sondrenf@gmail.com)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sondreNodenes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sondreNodenes&layout=compact&theme=tokyonight&hide_border=true)
