@@ -12,9 +12,9 @@ interests:
   - Cloud infrastructure
   - System administration
 ```
-```bash
-$ cat skills.txt
-```
+
+# Skills
+
 
 **Networks**
 ![Cisco](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
@@ -32,13 +32,10 @@ $ cat skills.txt
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
 ---
-```bash
-$ cat contact.txt
-```
+# Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sondre--nodenes-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sondre-nodenes)
 [![Email](https://img.shields.io/badge/Email-sondrenf@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sondrenf@gmail.com)
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sondreNodenes&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/sondreNodenes)e)
