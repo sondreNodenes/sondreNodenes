@@ -1,4 +1,4 @@
-# WHOAMI
+### WHOAMI
 ```yaml
 name: Sondre Nodenes
 location: Trondheim, Norway
@@ -13,7 +13,7 @@ interests:
   - System administration
 ```
 
-# Skills
+### Skills
 
 
 **Networks**
@@ -32,7 +32,7 @@ interests:
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
 ---
-# Contact
+### Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sondre--nodenes-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sondre-nodenes)
 [![Email](https://img.shields.io/badge/Email-sondrenf@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sondrenf@gmail.com)
