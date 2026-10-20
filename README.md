@@ -9,7 +9,6 @@ I'm a learning assistant (DCST1001, DCST1005), tech lead at BRAIN NTNU, and a st
 - [tmdb-mcp-server](https://github.com/sondreNodenes/tmdb-mcp-server) - an MCP server that gives LLMs tools for the TMDB movie API (Python).
 - [agentic-ai-kantega](https://github.com/sondreNodenes/agentic-ai-kantega) - multi-agent AI with tool use and human-in-the-loop (Kantega workshop).
 - [cisco-networking-labs](https://github.com/sondreNodenes/cisco-networking-labs) - Cisco labs: VLANs, OSPF, ACLs, HSRP, IPv6.
-- [windows-azure-infrastructure-labs](https://github.com/sondreNodenes/windows-azure-infrastructure-labs) - Active Directory, PowerShell and Azure networking labs.
 - [pyomo-optimization-models](https://github.com/sondreNodenes/pyomo-optimization-models) - LP, MIP and NLP models in Pyomo, including a Norsk Hydro case.
 
 ### Tools
