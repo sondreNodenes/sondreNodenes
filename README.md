@@ -4,7 +4,7 @@ In summer 2026 I was a DevOps intern at Pexip, where I built a streaming service
 
 **Current focus:** Go, cloud and Kubernetes, security, and data science. Rust is next.
 
-**Also:** teaching assistant in infrastructure and cloud courses at NTNU, and tech lead at [BRAIN NTNU](https://brainntnu.no/), a student organization for AI.
+**Also:** teaching assistant in infrastructure and cloud courses at NTNU, and previous tech lead at [BRAIN NTNU](https://brainntnu.no/), a student organization for AI.
 
 ### Featured projects
 - [terraform-gcp](https://github.com/sondreNodenes/terraform-gcp) - Terraform on GCP: a VM with IAP-only SSH, Nginx, DNS and Let's Encrypt TLS.
