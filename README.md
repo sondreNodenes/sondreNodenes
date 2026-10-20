@@ -8,8 +8,8 @@ In summer 2026 I was a DevOps intern at Pexip, where I built a streaming service
 
 ### Featured projects
 - [terraform-gcp](https://github.com/sondreNodenes/terraform-gcp) - Terraform on GCP: a VM with IAP-only SSH, Nginx, DNS and Let's Encrypt TLS.
-- [tmdb-mcp-server](https://github.com/sondreNodenes/tmdb-mcp-server) - an MCP server that gives LLMs tools for the TMDB movie API (Python).
-- [agentic-ai-kantega](https://github.com/sondreNodenes/agentic-ai-kantega) - multi-agent AI with tool use and human-in-the-loop (Kantega workshop).
+- [ai-movie-assistant-mcp](https://github.com/sondreNodenes/ai-movie-assistant-mcp) - an AI movie assistant: an MCP server that lets Claude search movies, trends and reviews (Python).
+- [multi-agent-ai](https://github.com/sondreNodenes/multi-agent-ai) - AI agents that search the web, critique each other and take human feedback (Python, Azure OpenAI).
 - [pyomo-optimization-models](https://github.com/sondreNodenes/pyomo-optimization-models) - LP, MIP and NLP models in Pyomo, including a Norsk Hydro case.
 - [cisco-networking-labs](https://github.com/sondreNodenes/cisco-networking-labs) - Cisco labs: VLANs, OSPF, ACLs, HSRP, IPv6.
 
